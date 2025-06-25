@@ -1,0 +1,2 @@
+mkdir -p nginx service_1 service_2
+touch docker-compose.yml nginx/nginx.conf nginx/Dockerfile service_1/Dockerfile service_2/Dockerfile README.md
